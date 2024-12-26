@@ -1,10 +1,5 @@
 # 💫 About Me:
-I’m a Software Engineering Student passionate about exploring the world of technology and building innovative solutions. Here’s a bit about me:
-🎓 Currently pursuing a degree in Software Engineering.
-💻 Learning and working with technologies like JavaScript, Python, C++, and Web Development.
-🌱 Constantly improving my skills in full-stack development, algorithms, and problem-solving.
-🚀 Interested in areas like Artificial Intelligence, Cloud Computing, and Mobile App Development.
-🤝 Love collaborating on open-source projects and contributing to the tech community.
+I’m a Software Engineering Student passionate about exploring the world of technology and building innovative solutions. Here’s a bit about me:<br><br>🎓 Currently pursuing a degree in Software Engineering.<br>💻 Learning and working with technologies like JavaScript, Python, C++, and Web Development.<br>🌱 Constantly improving my skills in full-stack development, algorithms, and problem-solving.<br>🚀 Interested in areas like Artificial Intelligence, Cloud Computing, and Mobile App Development.<br>🤝 Love collaborating on open-source projects and contributing to the tech community.
 
 
 # 💻 Tech Stack:
@@ -14,8 +9,7 @@ I’m a Software Engineering Student passionate about exploring the world of tec
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mr-hamzuu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-hamzuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mr-hamzuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
@@ -25,3 +19,4 @@ I’m a Software Engineering Student passionate about exploring the world of tec
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mr-hamzuu&icon=0&color=0)](https://visitcount.itsvg.in)
+
