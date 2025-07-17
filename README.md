@@ -1,4 +1,4 @@
-<img src="Banner.png" alt="GitHub Banner" width="100%" />
+<img src="Muhammad Hamza Khan (1).png" alt="GitHub Banner" width="100%" />
 <b># 💫 About Me:</b>
 I’m a Software Engineering Student passionate about exploring the world of technology and building innovative solutions. Here’s a bit about me:<br><br>🎓 Currently pursuing a degree in Software Engineering.<br>💻 Learning and working with technologies like JavaScript, Python, C++, and Web Development.<br>🌱 Constantly improving my skills in full-stack development, algorithms, and problem-solving.<br>🚀 Interested in areas like Artificial Intelligence, Cloud Computing, and Mobile App Development.<br>🤝 Love collaborating on open-source projects and contributing to the tech community.<br><br>Skills:<br>Languages: JavaScript, C++, HTML/CSS<br>Tools:  VS Code, Canva, MS Office<br>Areas of Interest: Web Development, Software Design<br><br>📈 What I’m Working On:<br><br>🔭 Building fun projects to enhance my portfolio.<br>🧠 Exploring new frameworks and libraries to stay updated with industry trends.<br>📝 Writing clean, efficient, and scalable code.<br>
 
