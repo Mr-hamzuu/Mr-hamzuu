@@ -1,6 +1,42 @@
 <img src="Muhammad Hamza Khan (1).png" alt="GitHub Banner" width="100%" />
-<br># 💫 About Me:
-👋 Hi, I’m Muhammad Hamza Khan<br><br>I’m a Frontend Developer passionate about creating modern and responsive websites.<br>I mainly work with React.js, JavaScript, Tailwind CSS, and Bootstrap, and I also have strong foundations in C++ (OOP) and Java.<br><br>🚀 What I Do<br>Build user-friendly and responsive web applications<br>Solve problems using Java,CPP & DSA<br>Write clean, maintainable, and scalable code<br>Keep learning new technologies to grow as a developer<br><br>⚡ Skills<br>React.js | JavaScript | Tailwind CSS | Bootstrap | HTML5 | CSS3 | C++ | Java | Git & GitHub<br><br>📂 Projects<br> 🔗 [**Portfolio Website**](https://github.com/Mr-hamzuu/Portfolio-React-Js) <br>Portfolio Website A personal portfolio to showcase my skills and projects with responsive design, animations, and a contact form. <br><br>📫 Connect With Me<br>LinkedIn: linkedin.com/in/hamzuu6971<br>GitHub: github.com/Mr-hamzuu<br><br>✨ Always learning, always growing.
+<br># 👋 Hi, I’m Muhammad Hamza Khan  
+
+I’m a **Frontend Developer** who enjoys building modern and responsive websites.  
+I love working with **React.js, JavaScript, Tailwind CSS, and Bootstrap**.  
+I also have a good foundation in **C++ (OOP)** and I’m learning **Java DSA** to improve my problem-solving skills.  
+
+---
+
+## 🚀 What I Do  
+- Build user-friendly and responsive web applications  
+- Create clean and easy-to-maintain code  
+- Explore new tools and technologies to improve my skills  
+
+---
+
+## ⚡ Skills  
+- **Frontend:** React.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript  
+- **Languages:** C++, Java  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📂 Projects  
+🔗 [**Portfolio Website**](https://github.com/Mr-hamzuu/Portfolio-React-Js)  
+A personal portfolio to showcase my skills and projects.  
+✔ Responsive design  
+✔ Smooth animations  
+✔ Contact form & resume download option  
+
+---
+
+## 📫 Connect With Me  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/hamzuu6971/)  
+- 💻 [GitHub](https://github.com/Mr-hamzuu)  
+- 📧 Email: *your-email@example.com*  
+
+---
+✨ *Always learning, always growing.*  
 
 
 ## 🌐 Socials:
