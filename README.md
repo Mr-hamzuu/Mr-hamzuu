@@ -1,6 +1,6 @@
 <img src="Muhammad Hamza Khan (1).png" alt="GitHub Banner" width="100%" />
-<b# 💫 About Me:
-👋 Hi, I’m Muhammad Hamza Khan<br><br>I’m a Frontend Developer passionate about creating modern and responsive websites.<br>I mainly work with React.js, JavaScript, Tailwind CSS, and Bootstrap, and I also have strong foundations in C++ (OOP) and Java.<br><br>🚀 What I Do<br><br>Build user-friendly and responsive web applications<br><br>Solve problems using Java & DSA<br><br>Write clean, maintainable, and scalable code<br><br>Keep learning new technologies to grow as a developer<br><br>⚡ Skills<br><br>React.js | JavaScript | Tailwind CSS | Bootstrap | HTML5 | CSS3 | C++ | Java | Git & GitHub<br><br>📂 Projects<br><br>Portfolio Website – A personal portfolio to showcase my skills and projects with responsive design, animations, and a contact form.<br><br>📫 Connect With Me<br><br>LinkedIn: linkedin.com/in/hamzuu6971<br><br>GitHub: github.com/Mr-hamzuu<br><br>Email: your-email@example.com<br><br>✨ Always learning, always growing.
+<br># 💫 About Me:
+👋 Hi, I’m Muhammad Hamza Khan<br><br>I’m a Frontend Developer passionate about creating modern and responsive websites.<br>I mainly work with React.js, JavaScript, Tailwind CSS, and Bootstrap, and I also have strong foundations in C++ (OOP) and Java.<br><br>🚀 What I Do<br>Build user-friendly and responsive web applications<br>Solve problems using Java & DSA<br>Write clean, maintainable, and scalable code<br>Keep learning new technologies to grow as a developer<br><br>⚡ Skills<br>React.js | JavaScript | Tailwind CSS | Bootstrap | HTML5 | CSS3 | C++ | Java | Git & GitHub<br><br>📂 Projects<br>Portfolio Website – A personal portfolio to showcase my skills and projects with responsive design, animations, and a contact form.<br><br>📫 Connect With Me<br>LinkedIn: linkedin.com/in/hamzuu6971<br>GitHub: github.com/Mr-hamzuu<br><br>✨ Always learning, always growing.
 
 
 ## 🌐 Socials:
@@ -18,3 +18,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mr-hamzuu&icon=0&color=0)](https://visitcount.itsvg.in)
+
