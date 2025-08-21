@@ -33,7 +33,7 @@ A personal portfolio to showcase my skills and projects.
 ## 📫 Connect With Me  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/hamzuu6971/)  
 - 💻 [GitHub](https://github.com/Mr-hamzuu)  
-- 📧 Email: *your-email@example.com*  
+- 📧 Email: *hamzuu6971@gmail.com*  
 
 ---
 ✨ *Always learning, always growing.*  
