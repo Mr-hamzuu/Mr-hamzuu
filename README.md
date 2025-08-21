@@ -22,8 +22,8 @@ I also have a good foundation in **C++ (OOP)** and I’m learning **Java DSA** t
 ---
 
 ## 📂 Projects  
-🔗 [**Portfolio Repo**](https://github.com/Mr-hamzuu/Portfolio-React-Js) <br>
 🔗 [**Portfolio Website**](https://portfolio-react-6x7vlsvjv.vercel.app/) <br>
+🔗 [**Portfolio Code**](https://github.com/Mr-hamzuu/Portfolio-React-Js) <br>
 A personal portfolio to showcase my skills and projects.  
 ✔ Responsive design  
 ✔ Smooth animations  
