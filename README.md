@@ -1,7 +1,7 @@
 <img src="Muhammad Hamza Khan (6).png" alt="GitHub Banner" width="100%" />
 <br>👋 Hi, I’m Muhammad Hamza Khan  
 
-I’m a **Software Engineer & Frontend Developer** who enjoys building modern and responsive websites.  
+A **Software Engineer & Frontend Developer** who enjoys building modern and responsive websites.  
 I love working with **React.js, JavaScript, Tailwind CSS, and Bootstrap**.  
 I also have a good foundation in **C++ (OOP)** and I’m learning **Java DSA** to improve my problem-solving skills.  
 
