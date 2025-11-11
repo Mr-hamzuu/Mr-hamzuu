@@ -1,3 +1,4 @@
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5869326" style='border:none;'></iframe>
 <img src="Muhammad Hamza Khan (6).png" alt="GitHub Banner" width="100%" />
 <br>👋 Hi, I’m Muhammad Hamza Khan  
 
