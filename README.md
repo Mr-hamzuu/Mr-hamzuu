@@ -1,4 +1,4 @@
-<img src="Muhammad Hamza Khan (6).png" alt="GitHub Banner" width="100%" />
+<img src="Muhammad Hamza Khan (7).png" alt="GitHub Banner" width="100%" />
 <br>👋 Hi, I’m Muhammad Hamza Khan  
 
 A **Software Engineer & Frontend Developer** who enjoys building modern and responsive websites.  
